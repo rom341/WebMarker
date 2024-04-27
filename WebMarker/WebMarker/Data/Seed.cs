@@ -4,6 +4,7 @@ namespace WebMarker.Data
 {
     public class Seed
     {
+        //insert test values to database
         public static void SeedData(IApplicationBuilder applicationBuilder)
         {
             using (var serviceScope = applicationBuilder.ApplicationServices.CreateScope())
