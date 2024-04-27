@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WebMarker")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ac67ce4fe6f38d668a872cc314c10ad4c5449e5a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+de0d2ef407afaf3da9ec33ee6290063dc4d7c753")]
 [assembly: System.Reflection.AssemblyProductAttribute("WebMarker")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WebMarker")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -3,32 +3,20 @@
   "WorkspaceRootPath": "D:\\Git\\Repos\\WebMarker\\WebMarker\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0DE5F6B2-063A-47FF-8E1F-1C3621AACF1C}|WebMarker\\WebMarker.csproj|d:\\git\\repos\\webmarker\\webmarker\\webmarker\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{0DE5F6B2-063A-47FF-8E1F-1C3621AACF1C}|WebMarker\\WebMarker.csproj|solutionrelative:webmarker\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{0DE5F6B2-063A-47FF-8E1F-1C3621AACF1C}|WebMarker\\WebMarker.csproj|d:\\git\\repos\\webmarker\\webmarker\\webmarker\\views\\workspace\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0DE5F6B2-063A-47FF-8E1F-1C3621AACF1C}|WebMarker\\WebMarker.csproj|solutionrelative:webmarker\\views\\workspace\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0DE5F6B2-063A-47FF-8E1F-1C3621AACF1C}|WebMarker\\WebMarker.csproj|d:\\git\\repos\\webmarker\\webmarker\\webmarker\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0DE5F6B2-063A-47FF-8E1F-1C3621AACF1C}|WebMarker\\WebMarker.csproj|solutionrelative:webmarker\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0DE5F6B2-063A-47FF-8E1F-1C3621AACF1C}|WebMarker\\WebMarker.csproj|d:\\git\\repos\\webmarker\\webmarker\\webmarker\\controllers\\workspacecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DE5F6B2-063A-47FF-8E1F-1C3621AACF1C}|WebMarker\\WebMarker.csproj|solutionrelative:webmarker\\controllers\\workspacecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Git\\Repos\\WebMarker\\WebMarker\\WebMarker\\Migrations\\20240424141624_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebMarker\\Migrations\\20240424141624_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0DE5F6B2-063A-47FF-8E1F-1C3621AACF1C}|WebMarker\\WebMarker.csproj|d:\\git\\repos\\webmarker\\webmarker\\webmarker\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0DE5F6B2-063A-47FF-8E1F-1C3621AACF1C}|WebMarker\\WebMarker.csproj|solutionrelative:webmarker\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Git\\Repos\\WebMarker\\WebMarker\\WebMarker\\Migrations\\20240424141206_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebMarker\\Migrations\\20240424141206_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0DE5F6B2-063A-47FF-8E1F-1C3621AACF1C}|WebMarker\\WebMarker.csproj|d:\\git\\repos\\webmarker\\webmarker\\webmarker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0DE5F6B2-063A-47FF-8E1F-1C3621AACF1C}|WebMarker\\WebMarker.csproj|solutionrelative:webmarker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0DE5F6B2-063A-47FF-8E1F-1C3621AACF1C}|WebMarker\\WebMarker.csproj|d:\\git\\repos\\webmarker\\webmarker\\webmarker\\data\\seed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0DE5F6B2-063A-47FF-8E1F-1C3621AACF1C}|WebMarker\\WebMarker.csproj|solutionrelative:webmarker\\data\\seed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0DE5F6B2-063A-47FF-8E1F-1C3621AACF1C}|WebMarker\\WebMarker.csproj|d:\\git\\repos\\webmarker\\webmarker\\webmarker\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0DE5F6B2-063A-47FF-8E1F-1C3621AACF1C}|WebMarker\\WebMarker.csproj|solutionrelative:webmarker\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0DE5F6B2-063A-47FF-8E1F-1C3621AACF1C}|WebMarker\\WebMarker.csproj|d:\\git\\repos\\webmarker\\webmarker\\webmarker\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0DE5F6B2-063A-47FF-8E1F-1C3621AACF1C}|WebMarker\\WebMarker.csproj|solutionrelative:webmarker\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,97 +26,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AppUser.cs",
-              "DocumentMoniker": "D:\\Git\\Repos\\WebMarker\\WebMarker\\WebMarker\\Models\\AppUser.cs",
-              "RelativeDocumentMoniker": "WebMarker\\Models\\AppUser.cs",
-              "ToolTip": "D:\\Git\\Repos\\WebMarker\\WebMarker\\WebMarker\\Models\\AppUser.cs",
-              "RelativeToolTip": "WebMarker\\Models\\AppUser.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAwwBIAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-24T14:27:53.032Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "20240424141624_InitialCreate.cs",
-              "DocumentMoniker": "D:\\Git\\Repos\\WebMarker\\WebMarker\\WebMarker\\Migrations\\20240424141624_InitialCreate.cs",
-              "RelativeDocumentMoniker": "WebMarker\\Migrations\\20240424141624_InitialCreate.cs",
-              "ToolTip": "D:\\Git\\Repos\\WebMarker\\WebMarker\\WebMarker\\Migrations\\20240424141624_InitialCreate.cs",
-              "RelativeToolTip": "WebMarker\\Migrations\\20240424141624_InitialCreate.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-24T14:16:25.07Z",
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Git\\Repos\\WebMarker\\WebMarker\\WebMarker\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebMarker\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Git\\Repos\\WebMarker\\WebMarker\\WebMarker\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebMarker\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABwAAAAAAAAAAAAAAAwAAABvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-27T12:20:21.619Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "20240424141206_InitialCreate.cs",
-              "DocumentMoniker": "D:\\Git\\Repos\\WebMarker\\WebMarker\\WebMarker\\Migrations\\20240424141206_InitialCreate.cs",
-              "RelativeDocumentMoniker": "WebMarker\\Migrations\\20240424141206_InitialCreate.cs",
-              "ToolTip": "D:\\Git\\Repos\\WebMarker\\WebMarker\\WebMarker\\Migrations\\20240424141206_InitialCreate.cs",
-              "RelativeToolTip": "WebMarker\\Migrations\\20240424141206_InitialCreate.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAAwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-24T14:12:06.801Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Seed.cs",
-              "DocumentMoniker": "D:\\Git\\Repos\\WebMarker\\WebMarker\\WebMarker\\Data\\Seed.cs",
-              "RelativeDocumentMoniker": "WebMarker\\Data\\Seed.cs",
-              "ToolTip": "D:\\Git\\Repos\\WebMarker\\WebMarker\\WebMarker\\Data\\Seed.cs",
-              "RelativeToolTip": "WebMarker\\Data\\Seed.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAAwCQAAAAqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-24T14:01:30.935Z",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Git\\Repos\\WebMarker\\WebMarker\\WebMarker\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebMarker\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Git\\Repos\\WebMarker\\WebMarker\\WebMarker\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WebMarker\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-27T12:20:01.772Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\Git\\Repos\\WebMarker\\WebMarker\\WebMarker\\appsettings.json",
-              "RelativeDocumentMoniker": "WebMarker\\appsettings.json",
-              "ToolTip": "D:\\Git\\Repos\\WebMarker\\WebMarker\\WebMarker\\appsettings.json",
-              "RelativeToolTip": "WebMarker\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABPAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-04-24T13:39:01.167Z",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Git\\Repos\\WebMarker\\WebMarker\\WebMarker\\Views\\Workspace\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebMarker\\Views\\Workspace\\Index.cshtml",
+              "ToolTip": "D:\\Git\\Repos\\WebMarker\\WebMarker\\WebMarker\\Views\\Workspace\\Index.cshtml",
+              "RelativeToolTip": "WebMarker\\Views\\Workspace\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-27T12:12:28.377Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Git\\Repos\\WebMarker\\WebMarker\\WebMarker\\Program.cs",
-              "RelativeDocumentMoniker": "WebMarker\\Program.cs",
-              "ToolTip": "D:\\Git\\Repos\\WebMarker\\WebMarker\\WebMarker\\Program.cs",
-              "RelativeToolTip": "WebMarker\\Program.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAXAAAA",
+              "DocumentIndex": 1,
+              "Title": "WorkspaceController.cs",
+              "DocumentMoniker": "D:\\Git\\Repos\\WebMarker\\WebMarker\\WebMarker\\Controllers\\WorkspaceController.cs",
+              "RelativeDocumentMoniker": "WebMarker\\Controllers\\WorkspaceController.cs",
+              "ToolTip": "D:\\Git\\Repos\\WebMarker\\WebMarker\\WebMarker\\Controllers\\WorkspaceController.cs",
+              "RelativeToolTip": "WebMarker\\Controllers\\WorkspaceController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-24T13:28:12.096Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "D:\\Git\\Repos\\WebMarker\\WebMarker\\WebMarker\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "WebMarker\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "D:\\Git\\Repos\\WebMarker\\WebMarker\\WebMarker\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "WebMarker\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAAAAkAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-24T13:23:45.736Z",
+              "WhenOpened": "2024-04-27T12:11:28.353Z",
               "EditorCaption": ""
             }
           ]
