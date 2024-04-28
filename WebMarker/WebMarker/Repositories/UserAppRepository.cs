@@ -34,14 +34,14 @@ namespace WebMarker.Repositories
             return await _context.AppUsers.FirstOrDefaultAsync(u => u.Email == Email);
         }
 
-        public async Task<AppUser> GetUserByIdAsync(int id)
+        public async Task<AppUser> GetUserByIdAsync(string id)
         {
             return await _context.AppUsers.FirstOrDefaultAsync(u => u.Id == id);
         }
 
         public async Task<AppUser> GetUserByLoginAsync(string Login)
         {
-            return await _context.AppUsers.FirstOrDefaultAsync(u => u.Login == Login);
+            return await _context.AppUsers.FirstOrDefaultAsync(u => u.UserName == Login);
         }
 
         public async Task<AppUser> GetUserByPasswordAsync(string Password)
